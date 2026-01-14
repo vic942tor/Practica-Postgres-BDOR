@@ -49,7 +49,7 @@ Para garantizar la fiabilidad del sistema, se ha implementado un control de tran
 #Captrura con los Test
 <img width="1057" height="248" alt="{082963E0-29CA-4F37-B9B2-B391A9524EDC}" src="https://github.com/user-attachments/assets/07bcf05d-6eb4-4916-807c-3a0e8ef8235c" />
 
-#Captura de las consultas 
+#Operaciones CRUD y Consultas
 <img width="1039" height="177" alt="{4D8F9420-DAB3-4114-8CED-BA31150A5158}" src="https://github.com/user-attachments/assets/43fbee94-f409-4112-bc74-f1c5e1002b80" />
 
 
